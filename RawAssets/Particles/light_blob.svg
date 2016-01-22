@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="light_blob.svg"
+   inkscape:export-filename="/home/kyle2/Development/Tools/GoDot_Engine/SuperSanta/RawAssets/blob_shadow.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3778" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3780" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="radialGradient3782"
+       cx="72.999718"
+       cy="68.490913"
+       fx="72.999718"
+       fy="68.490913"
+       r="110.21526"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3776"
+       x="-0.23376623"
+       width="1.4675325"
+       y="-0.23376623"
+       height="1.4675325">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="21.470506"
+         id="feGaussianBlur3778" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="radialGradient3783"
+       gradientUnits="userSpaceOnUse"
+       cx="72.999718"
+       cy="68.490913"
+       fx="72.999718"
+       fy="68.490913"
+       r="110.21526" />
+    <filter
+       inkscape:collect="always"
+       id="filter3793">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3064579"
+         id="feGaussianBlur3795" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3809"
+       x="-0.11463791"
+       width="1.2292758"
+       y="-0.11463791"
+       height="1.2292758">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.529039"
+         id="feGaussianBlur3811" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="radialGradient3837"
+       gradientUnits="userSpaceOnUse"
+       cx="72.999718"
+       cy="68.490913"
+       fx="72.999718"
+       fy="68.490913"
+       r="110.21526" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="radialGradient3839"
+       gradientUnits="userSpaceOnUse"
+       cx="72.999718"
+       cy="68.490913"
+       fx="72.999718"
+       fy="68.490913"
+       r="110.21526" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95069408"
+     inkscape:cx="-19.221861"
+     inkscape:cy="57.910845"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="815"
+     inkscape:window-x="167"
+     inkscape:window-y="159"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3943"
+       width="417.8187"
+       height="317.19724"
+       x="-82.974106"
+       y="-17.310066"
+       ry="8.8016224" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <g
+       id="g3832"
+       transform="matrix(1.0696449,0,0,1.0696449,-0.58042885,-72.711231)"
+       inkscape:export-filename="/home/kyle2/Development/Tools/GoDot_Engine/SuperSanta/GodotProject/RawAssets/Particles/light_blob.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/kyle2/Development/Tools/GoDot_Engine/SuperSanta/GodotProject/RawAssets/light_blob.png"
+         sodipodi:open="true"
+         sodipodi:end="6.2749931"
+         sodipodi:start="0"
+         transform="matrix(0.73984523,0,0,0.73984523,73.991507,873.68951)"
+         d="m 183.21498,68.490913 c 0,60.870207 -49.34505,110.215267 -110.215262,110.215267 -60.870209,0 -110.215264,-49.34506 -110.215264,-110.215267 0,-60.8702088 49.345055,-110.215263 110.215264,-110.215263 60.517902,0 109.715792,48.7964972 110.211562,109.312367"
+         sodipodi:ry="110.21526"
+         sodipodi:rx="110.21526"
+         sodipodi:cy="68.490913"
+         sodipodi:cx="72.999718"
+         id="path2987"
+         style="fill:url(#radialGradient3837);fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3776)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient3839);fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3793)"
+         id="path3780"
+         sodipodi:cx="72.999718"
+         sodipodi:cy="68.490913"
+         sodipodi:rx="110.21526"
+         sodipodi:ry="110.21526"
+         d="m 183.21498,68.490913 c 0,60.870207 -49.34505,110.215267 -110.215262,110.215267 -60.870209,0 -110.215264,-49.34506 -110.215264,-110.215267 0,-60.8702088 49.345055,-110.215263 110.215264,-110.215263 60.517902,0 109.715792,48.7964972 110.211562,109.312367"
+         transform="matrix(0.38929572,0,0,0.38929572,99.581523,897.69897)"
+         sodipodi:start="0"
+         sodipodi:end="6.2749931"
+         sodipodi:open="true"
+         inkscape:export-filename="/home/kyle2/Development/Tools/GoDot_Engine/SuperSanta/GodotProject/RawAssets/light_blob.png"
+         inkscape:export-xdpi="45"
+         inkscape:export-ydpi="45" />
+      <path
+         inkscape:export-ydpi="45"
+         inkscape:export-xdpi="45"
+         inkscape:export-filename="/home/kyle2/Development/Tools/GoDot_Engine/SuperSanta/GodotProject/RawAssets/light_blob.png"
+         sodipodi:open="true"
+         sodipodi:end="6.2749931"
+         sodipodi:start="0"
+         transform="matrix(0.08857072,0,0,0.10474655,121.40444,917.188)"
+         d="m 183.21498,68.490913 c 0,60.870207 -49.34505,110.215267 -110.215262,110.215267 -60.870209,0 -110.215264,-49.34506 -110.215264,-110.215267 0,-60.8702088 49.345055,-110.215263 110.215264,-110.215263 60.517902,0 109.715792,48.7964972 110.211562,109.312367"
+         sodipodi:ry="110.21526"
+         sodipodi:rx="110.21526"
+         sodipodi:cy="68.490913"
+         sodipodi:cx="72.999718"
+         id="path3797"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3809)"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
